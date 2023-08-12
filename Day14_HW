@@ -1,0 +1,9 @@
+** Employee Hierarchy**
+
+* Design a Java program for an employee hierarchy. Create classes for `Employee`, `Manager`, and `Worker`.
+
+- `Employee` class should have instance variables for name and salary. Include methods for getting and setting salary.
+- `Manager` class should be a subclass of `Employee` and include additional instance variables like bonus. Implement methods for calculating the total salary for managers.
+- `Worker` class should also be a subclass of `Employee` and include instance variables for hourly rate and hours worked. Implement methods for calculating the total salary for workers.
+
+Design an `EmployeeManager` class to demonstrate the usage of employees and their salaries.
